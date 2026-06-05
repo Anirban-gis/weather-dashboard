@@ -1,0 +1,62 @@
+timestamp,state,district,temperature,humidity,pressure,wind_speed,cloudiness,weather,description
+2026-06-05 20:27:30.981650,Telangana,Adilabad,34.55,37,1002,2.76,50,Clouds,scattered clouds
+2026-06-05 20:27:32.095047,Telangana,Bhadradri Kothagudem,32.04,54,1002,1.78,99,Clouds,overcast clouds
+2026-06-05 20:27:33.201636,Telangana,Hyderabad,27.99,64,1006,7.24,70,Clouds,broken clouds
+2026-06-05 20:27:34.314034,Telangana,Jagtial,30.92,51,1003,5.65,78,Clouds,broken clouds
+2026-06-05 20:27:35.421142,Telangana,Jayashankar Bhupalapally,30.5,57,1002,2.48,71,Clouds,broken clouds
+2026-06-05 20:27:36.523707,Telangana,Karimnagar,31.22,51,1003,6.34,100,Clouds,overcast clouds
+2026-06-05 20:27:37.634821,Telangana,Khammam,31.33,54,1003,2.67,96,Clouds,overcast clouds
+2026-06-05 20:27:38.744920,Telangana,Mahabubnagar,28.43,59,1005,5.29,60,Clouds,broken clouds
+2026-06-05 20:27:39.855132,Telangana,Medak,27.77,66,1005,3.28,72,Clouds,broken clouds
+2026-06-05 20:27:40.964418,Telangana,Nalgonda,35.08,39,1003,3.24,83,Clouds,broken clouds
+2026-06-05 20:27:42.073759,Telangana,Nizamabad,29.32,58,1004,6.69,87,Clouds,overcast clouds
+2026-06-05 20:27:43.179333,Telangana,Rangareddy,27.25,66,1006,7.8,62,Clouds,broken clouds
+2026-06-05 20:27:44.288313,Telangana,Sangareddy,27.42,64,1005,2.5,12,Clouds,few clouds
+2026-06-05 20:27:45.398324,Telangana,Siddipet,27.46,66,1005,1.67,90,Clouds,overcast clouds
+2026-06-05 20:27:46.507801,Telangana,Suryapet,32.12,50,1003,3.23,81,Clouds,broken clouds
+2026-06-05 20:27:47.617389,Telangana,Vikarabad,26.6,65,1006,3.26,7,Clear,clear sky
+2026-06-05 20:27:48.724854,Telangana,Warangal,30.32,57,1003,3.49,98,Clouds,overcast clouds
+2026-06-05 20:27:49.838056,Telangana,Yadadri Bhuvanagiri,30.25,53,1005,7.68,67,Clouds,broken clouds
+2026-06-05 20:27:50.944773,Andhra Pradesh,Anantapur,31.18,51,1006,8.47,100,Clouds,overcast clouds
+2026-06-05 20:27:52.050536,Andhra Pradesh,Anakapalli,31.54,59,1003,4.23,100,Clouds,overcast clouds
+2026-06-05 20:27:53.162877,Andhra Pradesh,Bapatla,33.41,53,1002,3.39,100,Clouds,overcast clouds
+2026-06-05 20:27:54.279616,Andhra Pradesh,Chittoor,32.11,48,1006,6.54,100,Clouds,overcast clouds
+2026-06-05 20:27:55.385564,Andhra Pradesh,East Godavari,28.12,78,1003,4.11,94,Clouds,overcast clouds
+2026-06-05 20:27:56.486780,Andhra Pradesh,Eluru,31.0,58,1003,0.67,75,Clouds,broken clouds
+2026-06-05 20:27:57.596718,Andhra Pradesh,Guntur,32.78,49,1002,4.72,71,Clouds,broken clouds
+2026-06-05 20:27:58.709543,Andhra Pradesh,Kakinada,30.65,64,1004,4.45,100,Clouds,overcast clouds
+2026-06-05 20:27:59.811791,Andhra Pradesh,Krishna,33.12,53,1003,4.65,51,Clouds,broken clouds
+2026-06-05 20:28:00.910516,Andhra Pradesh,Kurnool,33.55,46,1004,7.63,100,Clouds,overcast clouds
+2026-06-05 20:28:02.016704,Andhra Pradesh,Nandyal,34.76,40,1004,7.08,53,Clouds,broken clouds
+2026-06-05 20:28:03.133701,Andhra Pradesh,Nellore,35.29,41,1003,1.73,100,Clouds,overcast clouds
+2026-06-05 20:28:04.237532,Andhra Pradesh,NTR,34.61,45,1003,2.86,61,Clouds,broken clouds
+2026-06-05 20:28:05.351984,Andhra Pradesh,Prakasam,35.34,46,1002,3.49,99,Clouds,overcast clouds
+2026-06-05 20:28:06.473494,Andhra Pradesh,Srikakulam,32.47,61,1001,3.61,73,Clouds,broken clouds
+2026-06-05 20:28:07.581621,Andhra Pradesh,Sri Sathya Sai,28.28,62,1007,6.55,95,Clouds,overcast clouds
+2026-06-05 20:28:08.695811,Andhra Pradesh,Tirupati,33.44,44,1005,4.01,99,Clouds,overcast clouds
+2026-06-05 20:28:09.800027,Andhra Pradesh,Visakhapatnam,32.5,55,1002,5.26,100,Clouds,overcast clouds
+2026-06-05 20:28:10.904582,Andhra Pradesh,Vizianagaram,30.36,59,1002,4.7,87,Clouds,overcast clouds
+2026-06-05 20:28:12.014305,Andhra Pradesh,West Godavari,30.02,67,1003,3.13,88,Clouds,overcast clouds
+2026-06-05 20:28:13.117502,Andhra Pradesh,YSR Kadapa,33.6,44,1005,6.64,86,Clouds,overcast clouds
+2026-06-05 20:28:14.231674,West Bengal,Alipurduar,26.92,82,1001,3.49,84,Clouds,broken clouds
+2026-06-05 20:28:15.349769,West Bengal,Bankura,31.56,62,1000,6.81,80,Clouds,broken clouds
+2026-06-05 20:28:16.461164,West Bengal,Birbhum,29.66,67,1002,5.82,67,Clouds,broken clouds
+2026-06-05 20:28:17.565368,West Bengal,Cooch Behar,28.33,77,1001,3.88,94,Clouds,overcast clouds
+2026-06-05 20:28:18.671549,West Bengal,Darjeeling,18.09,89,1006,2.11,5,Clear,clear sky
+2026-06-05 20:28:19.800744,West Bengal,Dakshin Dinajpur,32.11,61,1001,2.85,68,Clouds,broken clouds
+2026-06-05 20:28:20.909233,West Bengal,Hooghly,29.43,81,1001,2.99,100,Clouds,overcast clouds
+2026-06-05 20:28:22.010001,West Bengal,Howrah,30.4,64,1001,5.09,100,Clouds,overcast clouds
+2026-06-05 20:28:23.121695,West Bengal,Jalpaiguri,28.7,75,1001,2.79,39,Rain,moderate rain
+2026-06-05 20:28:24.233584,West Bengal,Jhargram,33.13,59,1000,8.04,100,Clouds,overcast clouds
+2026-06-05 20:28:25.340744,West Bengal,Kalimpong,24.33,89,1005,1.65,11,Clouds,few clouds
+2026-06-05 20:28:26.445151,West Bengal,Kolkata,29.78,65,1001,4.52,100,Clouds,overcast clouds
+2026-06-05 20:28:27.557022,West Bengal,Malda,31.15,60,1001,3.57,0,Clear,clear sky
+2026-06-05 20:28:28.683001,West Bengal,Murshidabad,28.97,73,1001,4.58,45,Clouds,scattered clouds
+2026-06-05 20:28:29.797752,West Bengal,Nadia,28.01,72,1001,4.08,100,Clouds,overcast clouds
+2026-06-05 20:28:30.903890,West Bengal,North 24 Parganas,29.46,69,1001,3.15,100,Clouds,overcast clouds
+2026-06-05 20:28:32.009783,West Bengal,Paschim Bardhaman,32.92,53,1000,8.21,82,Clouds,broken clouds
+2026-06-05 20:28:33.226789,West Bengal,Paschim Medinipur,33.05,61,1000,8.23,100,Clouds,overcast clouds
+2026-06-05 20:28:34.329139,West Bengal,Purba Bardhaman,29.44,66,1001,5.97,100,Clouds,overcast clouds
+2026-06-05 20:28:35.435961,West Bengal,Purba Medinipur,29.43,72,1001,6.23,100,Clouds,overcast clouds
+2026-06-05 20:28:36.553346,West Bengal,Purulia,36.14,28,999,2.86,42,Clouds,scattered clouds
+2026-06-05 20:28:37.670844,West Bengal,South 24 Parganas,30.0,64,1001,4.55,100,Clouds,overcast clouds

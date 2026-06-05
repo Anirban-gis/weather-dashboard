@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>
+        India District Weather Dashboard
+    </title>
+
+    <!-- Leaflet -->
+    <link rel="stylesheet"
+          href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet"
+          href="style.css">
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <!-- ===================================== -->
+        <!-- HEADER -->
+        <!-- ===================================== -->
+
+        <div class="header">
+
+            <h1>
+                India District Weather Dashboard
+            </h1>
+
+            <p>
+                Telangana • Andhra Pradesh • West Bengal
+            </p>
+
+        </div>
+
+        <!-- ===================================== -->
+        <!-- CONTROL PANEL -->
+        <!-- ===================================== -->
+
+        <div class="card">
+
+            <div class="controls">
+
+                <div>
+
+                    <label>
+                        Select District
+                    </label>
+
+                    <select id="districtSelect">
+                    </select>
+
+                </div>
+
+                <div>
+
+                    <button onclick="loadHistory()">
+                        Load History
+                    </button>
+
+                </div>
+
+                <div>
+
+                    <button onclick="loadLatest()">
+                        Refresh Weather
+                    </button>
+
+                </div>
+
+                <div>
+
+                    <button onclick="loadMap()">
+                        Refresh Map
+                    </button>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- ===================================== -->
+        <!-- GIS MAP -->
+        <!-- ===================================== -->
+
+        <div class="card">
+
+            <h2>
+                District Weather GIS Map
+            </h2>
+
+            <div id="map"></div>
+
+        </div>
+
+        <!-- ===================================== -->
+        <!-- WEATHER TABLE -->
+        <!-- ===================================== -->
+
+        <div class="card">
+
+            <h2>
+                Latest District Weather
+            </h2>
+
+            <div class="table-container">
+
+                <table id="weatherTable">
+
+                    <thead>
+
+                        <tr>
+
+                            <th>District</th>
+
+                            <th>State</th>
+
+                            <th>Temperature (°C)</th>
+
+                            <th>Humidity (%)</th>
+
+                            <th>Pressure (hPa)</th>
+
+                            <th>Wind (m/s)</th>
+
+                            <th>Weather</th>
+
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </div>
+
+        <!-- ===================================== -->
+        <!-- CHARTS -->
+        <!-- ===================================== -->
+
+        <div class="chart-grid">
+
+            <div class="card">
+
+                <h2>
+                    Temperature History
+                </h2>
+
+                <canvas id="tempChart"></canvas>
+
+            </div>
+
+            <div class="card">
+
+                <h2>
+                    Humidity History
+                </h2>
+
+                <canvas id="humidityChart"></canvas>
+
+            </div>
+
+        </div>
+
+        <!-- ===================================== -->
+        <!-- WEATHER SUMMARY -->
+        <!-- ===================================== -->
+
+        <div class="card">
+
+            <h2>
+                Selected District Summary
+            </h2>
+
+            <div id="districtSummary">
+
+                Select a district and click
+                <strong>Load History</strong>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- ===================================== -->
+    <!-- LEAFLET JS -->
+    <!-- ===================================== -->
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <!-- ===================================== -->
+    <!-- APP JS -->
+    <!-- ===================================== -->
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>
