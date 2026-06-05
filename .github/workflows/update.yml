@@ -3,7 +3,7 @@ name: Update District Weather
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 11 * * *'   # 5 PM IST
+    - cron: "30 11 * * *"
 
 jobs:
   update-weather:
@@ -23,19 +23,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run weather script
+      - name: Run script
         env:
           OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
         run: |
           python -m backend.district_weather_api
 
-      - name: Commit updated data
+      - name: Commit data
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
           git add data/
 
-          git diff --cached --quiet || git commit -m "Auto weather update"
+          git diff --cached --quiet || git commit -m "Auto update weather"
 
           git push
