@@ -1,4 +1,4 @@
-```yaml
+yaml
 name: Update District Weather
 
 on:
@@ -50,4 +50,4 @@ jobs:
           git diff --cached --quiet || git commit -m "Auto weather update"
 
           git push
-```
+
