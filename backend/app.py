@@ -355,10 +355,12 @@ for rule in app.url_map.iter_rules():
 print("=============================\n")
 if __name__ == "__main__":
 
+    port = int(os.environ.get("PORT", 10000))
+
     app.run(
         host="0.0.0.0",
-        port=5000,
-        debug=True
+        port=port,
+        debug=False
     )
 print("\nAvailable Routes:")
 for rule in app.url_map.iter_rules():
