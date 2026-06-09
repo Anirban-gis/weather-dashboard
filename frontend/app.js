@@ -2,7 +2,7 @@
 // CONFIG
 // ======================================================
 
-const API = "http://127.0.0.1:5000";
+const API = "https://weather-dashboard-1-5rgo.onrender.com";
 
 let tempChart = null;
 let humidityChart = null;
