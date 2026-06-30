@@ -1,238 +1,238 @@
 timestamp,state,district,temperature,humidity,pressure,wind_speed,cloudiness,weather,description
-2026-06-29 14:55:52.973055,Telangana,Adilabad,29.64,71,1002,3.21,100,Rain,light rain
-2026-06-29 14:55:54.053524,Telangana,Bhadradri Kothagudem,31.47,59,1003,1.35,96,Clouds,overcast clouds
-2026-06-29 14:55:55.129733,Telangana,Hyderabad,27.61,72,1005,4.59,100,Clouds,overcast clouds
-2026-06-29 14:55:56.212202,Telangana,Jagtial,28.95,68,1003,3.25,99,Clouds,overcast clouds
-2026-06-29 14:55:57.307278,Telangana,Jayashankar Bhupalapally,30.0,68,1003,0.38,89,Clouds,overcast clouds
-2026-06-29 14:55:58.385967,Telangana,Karimnagar,29.1,69,1003,4.68,99,Clouds,overcast clouds
-2026-06-29 14:55:59.452582,Telangana,Khammam,31.11,62,1003,5.52,100,Clouds,overcast clouds
-2026-06-29 14:56:00.537971,Telangana,Mahabubnagar,27.13,70,1006,5.7,94,Clouds,overcast clouds
-2026-06-29 14:56:01.611656,Telangana,Medak,26.43,81,1005,2.76,100,Clouds,overcast clouds
-2026-06-29 14:56:02.689967,Telangana,Nalgonda,30.53,61,1004,4.35,93,Clouds,overcast clouds
-2026-06-29 14:56:03.780912,Telangana,Nizamabad,26.8,80,1004,3.72,100,Clouds,overcast clouds
-2026-06-29 14:56:04.846694,Telangana,Rangareddy,26.09,77,1006,4.16,100,Clouds,overcast clouds
-2026-06-29 14:56:05.932387,Telangana,Sangareddy,26.68,77,1005,4.86,100,Clouds,overcast clouds
-2026-06-29 14:56:06.998551,Telangana,Siddipet,26.65,79,1004,4.24,100,Clouds,overcast clouds
-2026-06-29 14:56:08.070551,Telangana,Suryapet,28.54,73,1004,1.33,94,Clouds,overcast clouds
-2026-06-29 14:56:09.150644,Telangana,Vikarabad,25.91,77,1006,5.93,100,Clouds,overcast clouds
-2026-06-29 14:56:10.233400,Telangana,Warangal,30.19,65,1004,2.35,79,Clouds,broken clouds
-2026-06-29 14:56:11.315529,Telangana,Yadadri Bhuvanagiri,28.23,68,1004,4.66,92,Clouds,overcast clouds
-2026-06-29 14:56:12.381567,Andhra Pradesh,Anantapur,30.4,52,1007,10.88,88,Clouds,overcast clouds
-2026-06-29 14:56:13.455144,Andhra Pradesh,Anakapalli,28.98,80,1003,2.96,92,Clouds,overcast clouds
-2026-06-29 14:56:14.551150,Andhra Pradesh,Bapatla,31.84,62,1003,3.88,100,Clouds,overcast clouds
-2026-06-29 14:56:15.618095,Andhra Pradesh,Chittoor,31.51,48,1006,5.74,100,Clouds,overcast clouds
-2026-06-29 14:56:16.684354,Andhra Pradesh,East Godavari,30.72,62,1003,3.36,100,Clouds,overcast clouds
-2026-06-29 14:56:17.761830,Andhra Pradesh,Eluru,32.9,54,1003,1.41,99,Clouds,overcast clouds
-2026-06-29 14:56:18.834311,Andhra Pradesh,Guntur,33.4,51,1003,3.51,100,Clouds,overcast clouds
-2026-06-29 14:56:19.907587,Andhra Pradesh,Kakinada,31.98,55,1003,2.92,100,Clouds,overcast clouds
-2026-06-29 14:56:20.975005,Andhra Pradesh,Krishna,32.26,59,1003,4.36,100,Clouds,overcast clouds
-2026-06-29 14:56:22.047260,Andhra Pradesh,Kurnool,31.11,52,1005,7.09,100,Clouds,overcast clouds
-2026-06-29 14:56:23.128900,Andhra Pradesh,Nandyal,32.13,49,1005,7.47,99,Clouds,overcast clouds
-2026-06-29 14:56:24.204401,Andhra Pradesh,Nellore,31.63,60,1004,5.39,89,Clouds,overcast clouds
-2026-06-29 14:56:25.287064,Andhra Pradesh,NTR,32.74,54,1003,2.76,95,Clouds,overcast clouds
-2026-06-29 14:56:26.372113,Andhra Pradesh,Prakasam,34.5,48,1003,1.65,100,Clouds,overcast clouds
-2026-06-29 14:56:27.448114,Andhra Pradesh,Srikakulam,29.57,77,1003,6.2,100,Clouds,overcast clouds
-2026-06-29 14:56:28.527773,Andhra Pradesh,Sri Sathya Sai,29.55,57,1007,9.05,100,Clouds,overcast clouds
-2026-06-29 14:56:29.604382,Andhra Pradesh,Tirupati,33.07,44,1005,3.69,100,Clouds,overcast clouds
-2026-06-29 14:56:30.682021,Andhra Pradesh,Visakhapatnam,29.61,79,1003,5.22,80,Clouds,broken clouds
-2026-06-29 14:56:31.758587,Andhra Pradesh,Vizianagaram,29.64,70,1002,4.96,100,Clouds,overcast clouds
-2026-06-29 14:56:32.837152,Andhra Pradesh,West Godavari,30.59,69,1003,2.54,98,Clouds,overcast clouds
-2026-06-29 14:56:33.911629,Andhra Pradesh,YSR Kadapa,33.69,43,1005,7.34,100,Clouds,overcast clouds
-2026-06-29 14:56:34.984315,West Bengal,Alipurduar,25.49,95,1003,2.42,100,Clouds,overcast clouds
-2026-06-29 14:56:36.065339,West Bengal,Bankura,32.55,59,1000,8.6,100,Rain,very heavy rain
-2026-06-29 14:56:37.143989,West Bengal,Birbhum,31.68,64,1000,5.59,100,Rain,heavy intensity rain
-2026-06-29 14:56:38.223966,West Bengal,Cooch Behar,25.53,95,1002,2.98,100,Clouds,overcast clouds
-2026-06-29 14:56:39.305598,West Bengal,Darjeeling,19.21,98,1006,0.53,100,Clouds,overcast clouds
-2026-06-29 14:56:40.392675,West Bengal,Dakshin Dinajpur,29.21,79,1001,5.31,100,Clouds,overcast clouds
-2026-06-29 14:56:41.463310,West Bengal,Hooghly,27.77,86,1001,0.89,100,Rain,light rain
-2026-06-29 14:56:42.546315,West Bengal,Howrah,29.76,73,1001,5.06,100,Clouds,overcast clouds
-2026-06-29 14:56:43.622365,West Bengal,Jalpaiguri,25.99,94,1002,3.57,100,Clouds,overcast clouds
-2026-06-29 14:56:44.698917,West Bengal,Jhargram,30.75,68,1000,7.41,99,Rain,very heavy rain
-2026-06-29 14:56:45.788029,West Bengal,Kalimpong,24.97,99,1005,0.83,99,Clouds,overcast clouds
-2026-06-29 14:56:46.860458,West Bengal,Kolkata,30.19,71,1001,4.49,100,Rain,light rain
-2026-06-29 14:56:47.937918,West Bengal,Malda,30.63,69,1001,5.36,100,Clouds,overcast clouds
-2026-06-29 14:56:49.018663,West Bengal,Murshidabad,29.31,77,1001,6.12,100,Clouds,overcast clouds
-2026-06-29 14:56:50.096473,West Bengal,Nadia,30.11,71,1001,6.13,100,Rain,light rain
-2026-06-29 14:56:51.162569,West Bengal,North 24 Parganas,27.81,71,1001,5.11,100,Rain,light rain
-2026-06-29 14:56:52.241639,West Bengal,Paschim Bardhaman,33.39,52,1000,5.75,100,Rain,heavy intensity rain
-2026-06-29 14:56:53.322794,West Bengal,Paschim Medinipur,30.74,67,1000,6.71,100,Rain,heavy intensity rain
-2026-06-29 14:56:54.388723,West Bengal,Purba Bardhaman,30.3,71,1001,6.58,100,Rain,very heavy rain
-2026-06-29 14:56:55.463732,West Bengal,Purba Medinipur,27.97,84,1000,5.5,100,Rain,moderate rain
-2026-06-29 14:56:56.538804,West Bengal,Purulia,33.92,45,1000,4.55,100,Rain,very heavy rain
-2026-06-29 14:56:57.618678,West Bengal,South 24 Parganas,29.98,70,1002,4.8,100,Rain,moderate rain
-2026-06-29 14:56:58.695308,Delhi,Central Delhi,41.02,24,996,4.06,60,Rain,moderate rain
-2026-06-29 14:56:59.782495,Delhi,East Delhi,41.16,24,996,4.02,58,Rain,moderate rain
-2026-06-29 14:57:00.848883,Delhi,New Delhi,41.1,24,996,4.02,68,Rain,light rain
-2026-06-29 14:57:01.927325,Delhi,North Delhi,40.59,25,996,4.2,92,Rain,light rain
-2026-06-29 14:57:03.011788,Delhi,North East Delhi,40.58,25,996,4.15,53,Rain,heavy intensity rain
-2026-06-29 14:57:04.099511,Delhi,North West Delhi,40.31,25,996,4.14,96,Rain,light rain
-2026-06-29 14:57:05.174040,Delhi,Shahdara,40.93,24,996,4.11,53,Rain,moderate rain
-2026-06-29 14:57:06.255466,Delhi,South Delhi,40.84,24,996,3.77,73,Clouds,broken clouds
-2026-06-29 14:57:07.341215,Delhi,South East Delhi,40.84,24,996,3.77,73,Clouds,broken clouds
-2026-06-29 14:57:08.411849,Delhi,South West Delhi,40.71,25,996,3.95,97,Clouds,overcast clouds
-2026-06-29 14:57:09.477751,Delhi,West Delhi,40.71,24,996,4.2,93,Rain,light rain
-2026-06-29 14:57:10.553396,Jammu and Kashmir,Anantnag,25.0,41,1001,2.13,0,Clear,clear sky
-2026-06-29 14:57:11.619746,Jammu and Kashmir,Bandipora,24.53,52,1006,3.36,0,Clear,clear sky
-2026-06-29 14:57:12.702927,Jammu and Kashmir,Baramulla,24.58,52,1004,4.1,0,Clear,clear sky
-2026-06-29 14:57:13.787764,Jammu and Kashmir,Budgam,25.35,44,1002,2.78,0,Clear,clear sky
-2026-06-29 14:57:14.870712,Jammu and Kashmir,Doda,27.34,64,1005,0.4,40,Clouds,scattered clouds
-2026-06-29 14:57:15.945014,Jammu and Kashmir,Ganderbal,25.96,41,1003,3.84,0,Clear,clear sky
-2026-06-29 14:57:17.028871,Jammu and Kashmir,Jammu,40.81,22,993,1.86,0,Clear,clear sky
-2026-06-29 14:57:18.107990,Jammu and Kashmir,Kathua,39.14,23,993,2.53,0,Clear,clear sky
-2026-06-29 14:57:19.184277,Jammu and Kashmir,Kishtwar,26.02,60,1004,0.42,83,Clouds,broken clouds
-2026-06-29 14:57:20.266633,Jammu and Kashmir,Kulgam,23.48,56,1004,3.13,0,Clear,clear sky
-2026-06-29 14:57:21.348117,Jammu and Kashmir,Kupwara,23.7,55,1003,2.37,0,Clear,clear sky
-2026-06-29 14:57:22.427953,Jammu and Kashmir,Poonch,31.11,36,1000,2.16,2,Clear,clear sky
-2026-06-29 14:57:23.501301,Jammu and Kashmir,Pulwama,25.74,40,1000,1.64,0,Clear,clear sky
-2026-06-29 14:57:24.586476,Jammu and Kashmir,Rajouri,30.83,36,999,2.66,7,Clear,clear sky
-2026-06-29 14:57:25.672443,Jammu and Kashmir,Ramban,28.39,53,1003,1.13,2,Clear,clear sky
-2026-06-29 14:57:26.749253,Jammu and Kashmir,Reasi,35.57,31,996,1.82,5,Clear,clear sky
-2026-06-29 14:57:27.826558,Jammu and Kashmir,Samba,39.62,23,993,2.3,0,Clear,clear sky
-2026-06-29 14:57:28.902050,Jammu and Kashmir,Shopian,22.07,57,1005,4.31,1,Clear,clear sky
-2026-06-29 14:57:29.968453,Jammu and Kashmir,Srinagar,26.24,38,1001,0.96,0,Clear,clear sky
-2026-06-29 14:57:31.049882,Jammu and Kashmir,Udhampur,33.87,33,998,1.21,1,Clear,clear sky
-2026-06-29 14:57:32.115580,Punjab,Amritsar,41.43,18,992,2.39,30,Clouds,scattered clouds
-2026-06-29 14:57:33.192416,Punjab,Barnala,40.41,20,994,3.75,78,Clouds,broken clouds
-2026-06-29 14:57:34.280783,Punjab,Bathinda,41.82,18,994,5.99,64,Clouds,broken clouds
-2026-06-29 14:57:35.366684,Punjab,Faridkot,42.71,16,993,6.12,98,Clouds,overcast clouds
-2026-06-29 14:57:36.449195,Punjab,Fatehgarh Sahib,40.27,23,994,3.07,73,Clouds,broken clouds
-2026-06-29 14:57:37.528569,Punjab,Fazilka,42.2,17,993,6.69,64,Clouds,broken clouds
-2026-06-29 14:57:38.604619,Punjab,Ferozepur,42.93,16,993,5.83,79,Clouds,broken clouds
-2026-06-29 14:57:39.687069,Punjab,Gurdaspur,39.87,22,993,2.91,38,Clouds,scattered clouds
-2026-06-29 14:57:40.758395,Punjab,Hoshiarpur,39.51,23,993,1.24,43,Clouds,scattered clouds
-2026-06-29 14:57:41.835937,Punjab,Jalandhar,40.34,21,993,3.37,61,Clouds,broken clouds
-2026-06-29 14:57:42.911381,Punjab,Kapurthala,40.25,21,993,3.68,36,Clouds,scattered clouds
-2026-06-29 14:57:44.001921,Punjab,Ludhiana,40.37,20,993,2.92,75,Clouds,broken clouds
-2026-06-29 14:57:45.080578,Punjab,Malerkotla,39.26,22,994,2.56,35,Clouds,scattered clouds
-2026-06-29 14:57:46.166029,Punjab,Mansa,41.46,19,994,4.28,100,Clouds,overcast clouds
-2026-06-29 14:57:47.231569,Punjab,Moga,41.66,18,993,5.01,89,Clouds,overcast clouds
-2026-06-29 14:57:48.308203,Punjab,Muktsar,42.24,17,993,6.29,49,Clouds,scattered clouds
-2026-06-29 14:57:49.387352,Punjab,Pathankot,38.76,24,993,2.34,4,Clear,clear sky
-2026-06-29 14:57:50.454148,Punjab,Patiala,40.63,21,994,3.27,100,Clouds,overcast clouds
-2026-06-29 14:57:51.542418,Punjab,Rupnagar,38.14,27,994,3.12,67,Clouds,broken clouds
-2026-06-29 14:57:52.622864,Punjab,Sangrur,40.14,21,994,2.17,72,Clouds,broken clouds
-2026-06-29 14:57:53.689245,Punjab,SAS Nagar,37.97,27,994,2.4,69,Clouds,broken clouds
-2026-06-29 14:57:54.756562,Punjab,Sri Muktsar Sahib,42.24,17,993,6.29,49,Clouds,scattered clouds
-2026-06-29 14:57:55.837285,Punjab,Tarn Taran,40.98,19,993,3.21,69,Clouds,broken clouds
-2026-06-29 14:57:56.911845,Haryana,Ambala,40.33,23,994,2.92,80,Clouds,broken clouds
-2026-06-29 14:57:57.985966,Haryana,Bhiwani,40.38,23,996,4.48,52,Clouds,broken clouds
-2026-06-29 14:57:59.064000,Haryana,Charkhi Dadri,39.36,26,996,3.31,67,Clouds,broken clouds
-2026-06-29 14:58:00.138817,Haryana,Faridabad,39.94,27,996,3.52,80,Clouds,broken clouds
-2026-06-29 14:58:01.221841,Haryana,Fatehabad,41.68,20,994,5.48,82,Clouds,broken clouds
-2026-06-29 14:58:02.298487,Haryana,Gurugram,40.0,26,996,2.92,99,Clouds,overcast clouds
-2026-06-29 14:58:03.390132,Haryana,Hisar,41.57,21,995,5.15,73,Clouds,broken clouds
-2026-06-29 14:58:04.471469,Haryana,Jhajjar,39.75,26,996,1.92,86,Clouds,overcast clouds
-2026-06-29 14:58:05.553804,Haryana,Jind,40.18,24,995,2.17,78,Clouds,broken clouds
-2026-06-29 14:58:06.633556,Haryana,Kaithal,39.23,24,995,3.34,91,Clouds,overcast clouds
-2026-06-29 14:58:07.708876,Haryana,Karnal,37.77,27,995,2.17,39,Clouds,scattered clouds
-2026-06-29 14:58:08.781311,Haryana,Kurukshetra,40.15,23,994,3.9,45,Clouds,scattered clouds
-2026-06-29 14:58:09.854371,Haryana,Mahendragarh,39.84,24,996,1.95,9,Clear,clear sky
-2026-06-29 14:58:10.920464,Haryana,Nuh,38.72,30,996,3.37,33,Clouds,scattered clouds
-2026-06-29 14:58:11.998563,Haryana,Palwal,38.6,30,996,3.73,60,Clouds,broken clouds
-2026-06-29 14:58:13.082259,Haryana,Panchkula,36.99,29,995,2.8,49,Clouds,scattered clouds
-2026-06-29 14:58:14.165951,Haryana,Panipat,38.78,26,995,3.79,100,Clouds,overcast clouds
-2026-06-29 14:58:15.231576,Haryana,Rewari,39.91,25,996,1.75,47,Clouds,scattered clouds
-2026-06-29 14:58:16.297853,Haryana,Rohtak,38.67,27,996,2.61,34,Clouds,scattered clouds
-2026-06-29 14:58:17.370322,Haryana,Sirsa,42.05,19,995,6.28,86,Clouds,overcast clouds
-2026-06-29 14:58:18.446741,Haryana,Sonipat,38.55,28,996,4.13,70,Clouds,broken clouds
-2026-06-29 14:58:19.530580,Haryana,Yamunanagar,37.99,26,995,3.16,69,Clouds,broken clouds
-2026-06-29 14:58:20.597454,Uttar Pradesh,Agra,41.08,22,996,1.95,0,Clear,clear sky
-2026-06-29 14:58:21.680865,Uttar Pradesh,Aligarh,38.77,28,996,1.84,12,Clouds,few clouds
-2026-06-29 14:58:22.771782,Uttar Pradesh,Ambedkar Nagar,36.89,40,997,3.57,83,Clouds,broken clouds
-2026-06-29 14:58:23.857265,Uttar Pradesh,Amethi,39.03,34,996,3.27,30,Clouds,scattered clouds
-2026-06-29 14:58:24.934626,Uttar Pradesh,Amroha,37.63,31,995,0.85,90,Clouds,overcast clouds
-2026-06-29 14:58:26.003499,Uttar Pradesh,Auraiya,39.85,28,996,2.71,86,Clouds,overcast clouds
-2026-06-29 14:58:27.084075,Uttar Pradesh,Ayodhya,39.07,36,996,2.6,72,Clouds,broken clouds
-2026-06-29 14:58:28.162772,Uttar Pradesh,Azamgarh,38.94,33,997,4.5,27,Clouds,scattered clouds
-2026-06-29 14:58:29.233075,Uttar Pradesh,Baghpat,38.8,28,996,3.9,83,Rain,moderate rain
-2026-06-29 14:58:30.308709,Uttar Pradesh,Bahraich,38.11,33,996,1.09,78,Clouds,broken clouds
-2026-06-29 14:58:31.384420,Uttar Pradesh,Ballia,37.46,36,997,3.01,99,Clouds,overcast clouds
-2026-06-29 14:58:32.458977,Uttar Pradesh,Balrampur,38.32,34,996,2.72,85,Clouds,overcast clouds
-2026-06-29 14:58:33.532338,Uttar Pradesh,Banda,34.69,44,997,4.61,72,Rain,light rain
-2026-06-29 14:58:34.607578,Uttar Pradesh,Barabanki,38.78,31,996,3.36,58,Clouds,broken clouds
-2026-06-29 14:58:35.682915,Uttar Pradesh,Bareilly,38.43,29,996,1.15,88,Clouds,overcast clouds
-2026-06-29 14:58:36.757891,Uttar Pradesh,Basti,38.52,34,996,2.98,65,Clouds,broken clouds
-2026-06-29 14:58:37.823483,Uttar Pradesh,Bhadohi,37.82,37,997,6.6,73,Clouds,broken clouds
-2026-06-29 14:58:38.899054,Uttar Pradesh,Bijnor,35.71,35,995,1.87,49,Clouds,scattered clouds
-2026-06-29 14:58:39.966367,Uttar Pradesh,Budaun,39.3,28,996,2.44,64,Clouds,broken clouds
-2026-06-29 14:58:41.038204,Uttar Pradesh,Bulandshahr,38.4,29,996,1.35,87,Clouds,overcast clouds
-2026-06-29 14:58:42.114218,Uttar Pradesh,Chandauli,37.39,38,997,3.97,61,Clouds,broken clouds
-2026-06-29 14:58:43.180626,Uttar Pradesh,Deoria,39.08,33,997,1.47,85,Clouds,overcast clouds
-2026-06-29 14:58:44.246788,Uttar Pradesh,Etah,38.2,29,996,3.41,44,Clouds,scattered clouds
-2026-06-29 14:58:45.313259,Uttar Pradesh,Etawah,40.43,26,996,0.91,96,Clouds,overcast clouds
-2026-06-29 14:58:46.379608,Uttar Pradesh,Farrukhabad,40.09,28,996,1.65,57,Clouds,broken clouds
-2026-06-29 14:58:47.446105,Uttar Pradesh,Fatehpur,37.34,37,997,4.9,73,Rain,moderate rain
-2026-06-29 14:58:48.530307,Uttar Pradesh,Gautam Buddha Nagar,40.77,25,996,3.8,64,Clouds,broken clouds
-2026-06-29 14:58:49.608823,Uttar Pradesh,Ghaziabad,40.23,25,996,4.41,51,Rain,light rain
-2026-06-29 14:58:50.693053,Uttar Pradesh,Ghazipur,38.96,33,997,4.51,77,Clouds,broken clouds
-2026-06-29 14:58:51.783312,Uttar Pradesh,Gonda,38.12,34,996,3.11,16,Clouds,few clouds
-2026-06-29 14:58:52.855580,Uttar Pradesh,Gorakhpur,38.44,34,997,4.74,74,Clouds,broken clouds
-2026-06-29 14:58:53.934769,Uttar Pradesh,Hamirpur,38.31,35,997,6.57,54,Clouds,broken clouds
-2026-06-29 14:58:55.014740,Uttar Pradesh,Hardoi,39.16,28,996,1.53,92,Clouds,overcast clouds
-2026-06-29 14:58:56.086718,Uttar Pradesh,Jhansi,35.32,44,998,5.04,65,Clouds,broken clouds
-2026-06-29 14:58:57.152645,Uttar Pradesh,Kanpur Nagar,38.85,31,996,1.9,56,Clouds,broken clouds
-2026-06-29 14:58:58.218331,Uttar Pradesh,Lakhimpur Kheri,37.89,34,996,4.41,67,Clouds,broken clouds
-2026-06-29 14:58:59.285389,Uttar Pradesh,Lucknow,38.9,31,996,3.28,15,Clouds,few clouds
-2026-06-29 14:59:00.357532,Uttar Pradesh,Mathura,40.82,24,996,2.54,10,Clear,clear sky
-2026-06-29 14:59:01.447985,Uttar Pradesh,Meerut,38.48,27,995,2.19,75,Clouds,broken clouds
-2026-06-29 14:59:02.523392,Uttar Pradesh,Mirzapur,36.25,43,997,7.6,57,Clouds,broken clouds
-2026-06-29 14:59:03.589112,Uttar Pradesh,Moradabad,37.65,32,995,0.19,42,Clouds,scattered clouds
-2026-06-29 14:59:04.665427,Uttar Pradesh,Muzaffarnagar,36.47,30,995,2.95,31,Clouds,scattered clouds
-2026-06-29 14:59:05.741611,Uttar Pradesh,Prayagraj,38.82,34,997,5.32,26,Clouds,scattered clouds
-2026-06-29 14:59:06.828573,Uttar Pradesh,Rae Bareli,38.81,33,997,3.0,76,Clouds,broken clouds
-2026-06-29 14:59:07.908900,Uttar Pradesh,Saharanpur,37.93,27,995,2.05,82,Clouds,broken clouds
-2026-06-29 14:59:08.992897,Uttar Pradesh,Sitapur,39.42,29,996,0.91,60,Clouds,broken clouds
-2026-06-29 14:59:10.068079,Uttar Pradesh,Unnao,39.35,30,996,1.96,77,Clouds,broken clouds
-2026-06-29 14:59:11.148215,Uttar Pradesh,Varanasi,36.56,40,997,5.06,12,Clouds,few clouds
-2026-06-29 14:59:12.229008,Madhya Pradesh,Agar Malwa,24.81,82,1003,7.73,100,Clouds,overcast clouds
-2026-06-29 14:59:13.302684,Madhya Pradesh,Alirajpur,25.92,80,1004,7.1,100,Clouds,overcast clouds
-2026-06-29 14:59:14.379340,Madhya Pradesh,Anuppur,26.59,69,1001,2.56,100,Rain,moderate rain
-2026-06-29 14:59:15.445623,Madhya Pradesh,Ashoknagar,28.05,66,1001,9.11,86,Clouds,overcast clouds
-2026-06-29 14:59:16.511877,Madhya Pradesh,Balaghat,31.19,62,1001,4.01,100,Rain,light rain
-2026-06-29 14:59:17.588628,Madhya Pradesh,Barwani,30.2,67,1003,3.96,85,Clouds,overcast clouds
-2026-06-29 14:59:18.654630,Madhya Pradesh,Betul,26.29,78,1003,4.58,100,Rain,moderate rain
-2026-06-29 14:59:19.736380,Madhya Pradesh,Bhind,39.13,29,996,2.74,49,Clouds,scattered clouds
-2026-06-29 14:59:20.810830,Madhya Pradesh,Bhopal,25.21,85,1001,5.42,89,Clouds,overcast clouds
-2026-06-29 14:59:21.893805,Madhya Pradesh,Burhanpur,29.6,70,1003,4.25,99,Rain,light rain
-2026-06-29 14:59:22.959590,Madhya Pradesh,Chhatarpur,31.28,57,999,3.82,100,Clouds,overcast clouds
-2026-06-29 14:59:24.025512,Madhya Pradesh,Chhindwara,26.61,78,1002,3.75,100,Clouds,overcast clouds
-2026-06-29 14:59:25.103256,Madhya Pradesh,Damoh,32.3,54,1000,3.07,100,Clouds,overcast clouds
-2026-06-29 14:59:26.186374,Madhya Pradesh,Datia,35.11,44,997,4.74,32,Clouds,scattered clouds
-2026-06-29 14:59:27.266512,Madhya Pradesh,Dewas,25.71,78,1003,5.13,100,Clouds,overcast clouds
-2026-06-29 14:59:28.349019,Madhya Pradesh,Dhar,27.01,76,1004,5.4,100,Rain,light rain
-2026-06-29 14:59:29.428209,Madhya Pradesh,Dindori,23.65,84,1003,0.74,100,Rain,light rain
-2026-06-29 14:59:30.503739,Madhya Pradesh,Guna,26.34,73,1002,5.57,97,Rain,light rain
-2026-06-29 14:59:31.583570,Madhya Pradesh,Gwalior,38.35,30,997,3.81,100,Clouds,overcast clouds
-2026-06-29 14:59:32.664569,Madhya Pradesh,Harda,28.23,70,1002,4.68,94,Rain,light rain
-2026-06-29 14:59:33.730629,Madhya Pradesh,Indore,24.99,84,1004,3.36,100,Rain,light rain
-2026-06-29 14:59:34.812811,Madhya Pradesh,Jabalpur,27.3,73,1001,3.54,100,Clouds,overcast clouds
-2026-06-29 14:59:35.901944,Madhya Pradesh,Jhabua,27.04,79,1004,7.23,99,Clouds,overcast clouds
-2026-06-29 14:59:36.991920,Madhya Pradesh,Katni,29.26,67,1000,5.24,100,Rain,light rain
-2026-06-29 14:59:38.073979,Madhya Pradesh,Khandwa,28.63,72,1002,5.82,100,Rain,light rain
-2026-06-29 14:59:39.147281,Madhya Pradesh,Khargone,26.41,83,1003,5.65,99,Rain,light rain
-2026-06-29 14:59:40.213277,Madhya Pradesh,Mandla,25.81,76,1002,1.27,100,Rain,light rain
-2026-06-29 14:59:41.291358,Madhya Pradesh,Mandsaur,27.26,77,1004,3.22,100,Clouds,overcast clouds
-2026-06-29 14:59:42.368373,Madhya Pradesh,Morena,39.57,27,996,7.0,93,Clouds,overcast clouds
-2026-06-29 14:59:43.450795,Madhya Pradesh,Narmadapuram,27.66,72,1002,4.83,100,Clouds,overcast clouds
-2026-06-29 14:59:44.518535,Madhya Pradesh,Narsinghpur,29.99,67,1001,1.12,100,Clouds,overcast clouds
-2026-06-29 14:59:45.596816,Madhya Pradesh,Neemuch,27.29,75,1003,5.02,100,Clouds,overcast clouds
-2026-06-29 14:59:46.677835,Madhya Pradesh,Niwari,36.37,40,998,5.26,58,Clouds,broken clouds
-2026-06-29 14:59:47.754022,Madhya Pradesh,Panna,32.17,52,999,5.43,92,Rain,light rain
-2026-06-29 14:59:48.827482,Madhya Pradesh,Raisen,24.99,86,1001,1.41,100,Clouds,overcast clouds
-2026-06-29 14:59:49.910087,Madhya Pradesh,Rajgarh,27.57,68,1002,5.26,100,Clouds,overcast clouds
-2026-06-29 14:59:50.983818,Madhya Pradesh,Ratlam,24.75,82,1005,4.08,100,Clouds,overcast clouds
-2026-06-29 14:59:52.064486,Madhya Pradesh,Rewa,32.11,55,1000,6.4,100,Clouds,overcast clouds
-2026-06-29 14:59:53.142958,Madhya Pradesh,Sagar,27.11,77,1002,5.92,98,Clouds,overcast clouds
-2026-06-29 14:59:54.230679,Madhya Pradesh,Satna,33.03,49,1000,1.54,99,Clouds,overcast clouds
-2026-06-29 14:59:55.297960,Madhya Pradesh,Sehore,24.25,88,1001,2.57,100,Clouds,overcast clouds
-2026-06-29 14:59:56.376277,Madhya Pradesh,Seoni,29.3,61,1002,3.53,100,Clouds,overcast clouds
-2026-06-29 14:59:57.456702,Madhya Pradesh,Shahdol,25.56,73,1001,3.11,100,Clouds,overcast clouds
-2026-06-29 14:59:58.528228,Madhya Pradesh,Shajapur,26.15,73,1002,6.26,100,Clouds,overcast clouds
-2026-06-29 14:59:59.601808,Madhya Pradesh,Sheopur,31.84,54,1000,4.35,34,Clouds,scattered clouds
-2026-06-29 15:00:00.730715,Madhya Pradesh,Shivpuri,29.97,57,1000,7.62,57,Clouds,broken clouds
-2026-06-29 15:00:01.821422,Madhya Pradesh,Sidhi,30.57,63,999,6.09,98,Clouds,overcast clouds
-2026-06-29 15:00:02.908608,Madhya Pradesh,Singrauli,30.55,58,1000,5.57,86,Clouds,overcast clouds
-2026-06-29 15:00:03.995742,Madhya Pradesh,Tikamgarh,30.79,62,999,4.16,100,Clouds,overcast clouds
-2026-06-29 15:00:05.065692,Madhya Pradesh,Ujjain,25.54,76,1004,6.32,100,Clouds,overcast clouds
-2026-06-29 15:00:06.136708,Madhya Pradesh,Umaria,27.14,70,1001,2.38,100,Clouds,overcast clouds
-2026-06-29 15:00:07.216900,Madhya Pradesh,Vidisha,26.22,79,1003,2.81,100,Clouds,overcast clouds
+2026-06-30 13:20:11.395105,Telangana,Adilabad,28.66,76,1003,2.06,100,Clouds,overcast clouds
+2026-06-30 13:20:12.477562,Telangana,Bhadradri Kothagudem,28.44,77,1003,1.94,100,Rain,light rain
+2026-06-30 13:20:13.547605,Telangana,Hyderabad,27.12,73,1005,5.12,100,Clouds,overcast clouds
+2026-06-30 13:20:14.623623,Telangana,Jagtial,28.95,70,1003,2.14,100,Clouds,overcast clouds
+2026-06-30 13:20:15.705763,Telangana,Jayashankar Bhupalapally,28.34,74,1003,2.1,100,Rain,light rain
+2026-06-30 13:20:16.789609,Telangana,Karimnagar,30.45,60,1003,2.8,100,Clouds,overcast clouds
+2026-06-30 13:20:17.863113,Telangana,Khammam,31.69,59,1002,2.35,100,Rain,light rain
+2026-06-30 13:20:18.939956,Telangana,Mahabubnagar,27.02,70,1005,5.74,100,Clouds,overcast clouds
+2026-06-30 13:20:20.048297,Telangana,Medak,26.71,77,1004,4.0,100,Clouds,overcast clouds
+2026-06-30 13:20:21.137174,Telangana,Nalgonda,30.19,61,1003,5.49,100,Clouds,overcast clouds
+2026-06-30 13:20:22.204811,Telangana,Nizamabad,27.21,77,1003,2.77,100,Clouds,overcast clouds
+2026-06-30 13:20:23.279224,Telangana,Rangareddy,25.92,76,1005,5.18,100,Clouds,overcast clouds
+2026-06-30 13:20:24.373982,Telangana,Sangareddy,26.26,79,1005,4.26,100,Clouds,overcast clouds
+2026-06-30 13:20:25.446440,Telangana,Siddipet,28.52,65,1003,2.68,100,Clouds,overcast clouds
+2026-06-30 13:20:26.521159,Telangana,Suryapet,31.42,58,1003,3.79,100,Clouds,overcast clouds
+2026-06-30 13:20:27.600340,Telangana,Vikarabad,25.4,79,1005,5.39,100,Clouds,overcast clouds
+2026-06-30 13:20:28.672514,Telangana,Warangal,29.68,66,1003,1.92,100,Clouds,overcast clouds
+2026-06-30 13:20:29.764228,Telangana,Yadadri Bhuvanagiri,27.2,72,1004,4.71,100,Clouds,overcast clouds
+2026-06-30 13:20:30.849811,Andhra Pradesh,Anantapur,32.03,45,1005,10.02,100,Clouds,overcast clouds
+2026-06-30 13:20:31.940222,Andhra Pradesh,Anakapalli,31.93,65,1001,2.14,100,Clouds,overcast clouds
+2026-06-30 13:20:33.014527,Andhra Pradesh,Bapatla,33.98,49,1003,5.12,100,Clouds,overcast clouds
+2026-06-30 13:20:34.085196,Andhra Pradesh,Chittoor,32.03,45,1005,6.51,100,Clouds,overcast clouds
+2026-06-30 13:20:35.170095,Andhra Pradesh,East Godavari,29.71,71,1002,4.8,100,Rain,light rain
+2026-06-30 13:20:36.243722,Andhra Pradesh,Eluru,31.71,60,1002,2.93,100,Clouds,overcast clouds
+2026-06-30 13:20:37.316099,Andhra Pradesh,Guntur,33.35,50,1003,4.56,100,Clouds,overcast clouds
+2026-06-30 13:20:38.388846,Andhra Pradesh,Kakinada,31.39,64,1002,4.35,100,Clouds,overcast clouds
+2026-06-30 13:20:39.475056,Andhra Pradesh,Krishna,33.34,52,1002,4.18,100,Clouds,overcast clouds
+2026-06-30 13:20:40.549655,Andhra Pradesh,Kurnool,31.77,48,1004,7.05,100,Clouds,overcast clouds
+2026-06-30 13:20:41.623075,Andhra Pradesh,Nandyal,33.1,44,1004,7.33,100,Clouds,overcast clouds
+2026-06-30 13:20:42.710988,Andhra Pradesh,Nellore,35.2,39,1003,3.82,100,Clouds,overcast clouds
+2026-06-30 13:20:43.785546,Andhra Pradesh,NTR,32.91,52,1003,4.34,100,Clouds,overcast clouds
+2026-06-30 13:20:44.865612,Andhra Pradesh,Prakasam,35.0,42,1003,5.71,100,Clouds,overcast clouds
+2026-06-30 13:20:45.939705,Andhra Pradesh,Srikakulam,30.02,72,1002,3.01,100,Clouds,overcast clouds
+2026-06-30 13:20:47.020036,Andhra Pradesh,Sri Sathya Sai,30.77,53,1006,8.54,100,Clouds,overcast clouds
+2026-06-30 13:20:48.087490,Andhra Pradesh,Tirupati,33.1,46,1005,4.6,100,Clouds,overcast clouds
+2026-06-30 13:20:49.154184,Andhra Pradesh,Visakhapatnam,31.84,66,1001,4.1,100,Clouds,overcast clouds
+2026-06-30 13:20:50.251571,Andhra Pradesh,Vizianagaram,31.46,61,1001,2.81,100,Clouds,overcast clouds
+2026-06-30 13:20:51.326056,Andhra Pradesh,West Godavari,32.1,57,1002,3.39,100,Clouds,overcast clouds
+2026-06-30 13:20:52.406452,Andhra Pradesh,YSR Kadapa,33.86,43,1004,6.4,100,Clouds,overcast clouds
+2026-06-30 13:20:53.485285,West Bengal,Alipurduar,28.4,81,1000,2.07,4,Clear,clear sky
+2026-06-30 13:20:54.566252,West Bengal,Bankura,35.21,44,999,2.98,100,Clouds,overcast clouds
+2026-06-30 13:20:55.640335,West Bengal,Birbhum,34.29,51,999,3.48,100,Clouds,overcast clouds
+2026-06-30 13:20:56.716547,West Bengal,Cooch Behar,28.46,81,1000,0.98,8,Clear,clear sky
+2026-06-30 13:20:57.801935,West Bengal,Darjeeling,19.36,99,1005,0.08,100,Clouds,overcast clouds
+2026-06-30 13:20:58.876413,West Bengal,Dakshin Dinajpur,30.96,70,1000,2.57,88,Clouds,overcast clouds
+2026-06-30 13:20:59.954192,West Bengal,Hooghly,32.18,60,1000,3.8,100,Clouds,overcast clouds
+2026-06-30 13:21:01.033732,West Bengal,Howrah,32.04,59,1000,6.0,100,Rain,light rain
+2026-06-30 13:21:02.118653,West Bengal,Jalpaiguri,28.57,80,1000,1.88,13,Clouds,few clouds
+2026-06-30 13:21:03.204157,West Bengal,Jhargram,33.99,51,999,4.39,100,Rain,light rain
+2026-06-30 13:21:04.287433,West Bengal,Kalimpong,25.83,95,1003,0.66,43,Clouds,scattered clouds
+2026-06-30 13:21:05.376450,West Bengal,Kolkata,32.15,58,1000,6.26,100,Rain,moderate rain
+2026-06-30 13:21:06.450325,West Bengal,Malda,33.32,58,999,1.95,10,Clear,clear sky
+2026-06-30 13:21:07.524062,West Bengal,Murshidabad,33.74,52,999,1.57,92,Clouds,overcast clouds
+2026-06-30 13:21:08.604173,West Bengal,Nadia,32.05,58,1000,5.04,100,Clouds,overcast clouds
+2026-06-30 13:21:09.687839,West Bengal,North 24 Parganas,32.89,56,1000,5.9,100,Rain,moderate rain
+2026-06-30 13:21:10.756796,West Bengal,Paschim Bardhaman,34.98,45,999,5.05,100,Clouds,overcast clouds
+2026-06-30 13:21:11.831102,West Bengal,Paschim Medinipur,32.92,57,999,6.41,100,Rain,moderate rain
+2026-06-30 13:21:12.917153,West Bengal,Purba Bardhaman,33.64,55,999,3.37,100,Clouds,overcast clouds
+2026-06-30 13:21:14.006179,West Bengal,Purba Medinipur,30.35,70,1000,5.89,100,Clouds,overcast clouds
+2026-06-30 13:21:15.079955,West Bengal,Purulia,34.39,44,999,4.04,100,Rain,moderate rain
+2026-06-30 13:21:16.156578,West Bengal,South 24 Parganas,30.02,68,1000,5.96,100,Clouds,overcast clouds
+2026-06-30 13:21:17.240191,Delhi,Central Delhi,42.7,20,994,4.31,100,Clouds,overcast clouds
+2026-06-30 13:21:18.319055,Delhi,East Delhi,42.74,20,994,4.13,100,Clouds,overcast clouds
+2026-06-30 13:21:19.386123,Delhi,New Delhi,42.72,20,994,4.8,100,Clouds,overcast clouds
+2026-06-30 13:21:20.460513,Delhi,North Delhi,42.42,20,995,5.07,100,Clouds,overcast clouds
+2026-06-30 13:21:21.571142,Delhi,North East Delhi,42.46,21,994,3.26,100,Clouds,overcast clouds
+2026-06-30 13:21:22.997587,Delhi,North West Delhi,42.26,21,995,5.14,100,Clouds,overcast clouds
+2026-06-30 13:21:24.572225,Delhi,Shahdara,42.66,20,994,3.73,100,Clouds,overcast clouds
+2026-06-30 13:21:25.849909,Delhi,South Delhi,42.55,20,995,5.01,100,Clouds,overcast clouds
+2026-06-30 13:21:27.066325,Delhi,South East Delhi,42.55,20,995,5.01,100,Clouds,overcast clouds
+2026-06-30 13:21:28.136399,Delhi,South West Delhi,42.41,21,995,5.15,100,Clouds,overcast clouds
+2026-06-30 13:21:29.324738,Delhi,West Delhi,42.44,20,995,5.14,100,Clouds,overcast clouds
+2026-06-30 13:21:30.468574,Jammu and Kashmir,Anantnag,30.79,41,999,3.08,0,Clear,clear sky
+2026-06-30 13:21:31.546201,Jammu and Kashmir,Bandipora,31.08,42,1002,2.28,0,Rain,light rain
+2026-06-30 13:21:32.629777,Jammu and Kashmir,Baramulla,29.44,46,1001,3.26,31,Rain,moderate rain
+2026-06-30 13:21:33.712632,Jammu and Kashmir,Budgam,30.81,42,999,2.35,17,Rain,light rain
+2026-06-30 13:21:34.788634,Jammu and Kashmir,Doda,29.86,59,1005,1.13,49,Clouds,scattered clouds
+2026-06-30 13:21:35.863254,Jammu and Kashmir,Ganderbal,32.02,39,1000,1.74,2,Clear,clear sky
+2026-06-30 13:21:36.937943,Jammu and Kashmir,Jammu,43.57,18,993,2.26,48,Clouds,scattered clouds
+2026-06-30 13:21:38.015439,Jammu and Kashmir,Kathua,39.25,28,994,3.99,100,Clouds,overcast clouds
+2026-06-30 13:21:39.093634,Jammu and Kashmir,Kishtwar,28.15,55,1004,1.36,26,Clouds,scattered clouds
+2026-06-30 13:21:40.182046,Jammu and Kashmir,Kulgam,27.75,55,1002,3.19,7,Clear,clear sky
+2026-06-30 13:21:41.266048,Jammu and Kashmir,Kupwara,31.49,36,1000,2.54,25,Clouds,scattered clouds
+2026-06-30 13:21:42.343315,Jammu and Kashmir,Poonch,35.7,28,1000,2.96,84,Clouds,broken clouds
+2026-06-30 13:21:43.422372,Jammu and Kashmir,Pulwama,30.75,41,998,3.12,27,Rain,light rain
+2026-06-30 13:21:44.509218,Jammu and Kashmir,Rajouri,34.48,32,999,1.44,71,Clouds,broken clouds
+2026-06-30 13:21:45.589056,Jammu and Kashmir,Ramban,32.15,46,1002,1.44,40,Clouds,scattered clouds
+2026-06-30 13:21:46.665388,Jammu and Kashmir,Reasi,39.53,26,997,0.77,49,Clouds,scattered clouds
+2026-06-30 13:21:47.749796,Jammu and Kashmir,Samba,42.89,19,994,3.67,52,Clouds,broken clouds
+2026-06-30 13:21:48.833059,Jammu and Kashmir,Shopian,24.25,62,1004,3.49,87,Rain,light rain
+2026-06-30 13:21:49.900036,Jammu and Kashmir,Srinagar,32.49,37,998,1.73,3,Rain,light rain
+2026-06-30 13:21:50.977885,Jammu and Kashmir,Udhampur,37.06,29,998,1.37,71,Clouds,broken clouds
+2026-06-30 13:21:52.053142,Punjab,Amritsar,43.57,18,993,2.66,100,Clouds,overcast clouds
+2026-06-30 13:21:53.129202,Punjab,Barnala,42.52,19,994,3.51,52,Clouds,broken clouds
+2026-06-30 13:21:54.204208,Punjab,Bathinda,42.92,19,994,5.24,36,Clouds,scattered clouds
+2026-06-30 13:21:55.286957,Punjab,Faridkot,42.81,19,994,4.51,88,Clouds,overcast clouds
+2026-06-30 13:21:56.371854,Punjab,Fatehgarh Sahib,41.66,19,994,3.66,100,Clouds,overcast clouds
+2026-06-30 13:21:57.452980,Punjab,Fazilka,42.47,20,994,5.04,100,Clouds,overcast clouds
+2026-06-30 13:21:58.527919,Punjab,Ferozepur,42.58,20,994,3.39,100,Clouds,overcast clouds
+2026-06-30 13:21:59.611866,Punjab,Gurdaspur,43.04,19,993,2.02,46,Clouds,scattered clouds
+2026-06-30 13:22:00.694234,Punjab,Hoshiarpur,43.25,17,994,1.11,97,Clouds,overcast clouds
+2026-06-30 13:22:01.767248,Punjab,Jalandhar,42.09,20,993,5.12,86,Clouds,overcast clouds
+2026-06-30 13:22:02.852224,Punjab,Kapurthala,42.29,20,993,5.79,94,Clouds,overcast clouds
+2026-06-30 13:22:03.928693,Punjab,Ludhiana,42.12,20,994,1.98,89,Clouds,overcast clouds
+2026-06-30 13:22:05.002436,Punjab,Malerkotla,41.18,21,994,0.67,97,Clouds,overcast clouds
+2026-06-30 13:22:06.081182,Punjab,Mansa,42.42,19,994,5.15,100,Clouds,overcast clouds
+2026-06-30 13:22:07.162537,Punjab,Moga,41.94,20,994,2.75,100,Clouds,overcast clouds
+2026-06-30 13:22:08.244512,Punjab,Muktsar,42.58,20,994,4.3,96,Clouds,overcast clouds
+2026-06-30 13:22:09.318805,Punjab,Pathankot,40.15,25,994,4.05,100,Clouds,overcast clouds
+2026-06-30 13:22:10.393833,Punjab,Patiala,41.24,21,994,4.08,98,Clouds,overcast clouds
+2026-06-30 13:22:11.493301,Punjab,Rupnagar,42.43,17,994,3.08,78,Clouds,broken clouds
+2026-06-30 13:22:12.571629,Punjab,Sangrur,42.01,20,994,3.34,100,Clouds,overcast clouds
+2026-06-30 13:22:13.647345,Punjab,SAS Nagar,42.03,17,994,5.78,18,Clouds,few clouds
+2026-06-30 13:22:14.722355,Punjab,Sri Muktsar Sahib,42.58,20,994,4.3,96,Clouds,overcast clouds
+2026-06-30 13:22:15.802788,Punjab,Tarn Taran,43.19,19,993,5.49,72,Clouds,broken clouds
+2026-06-30 13:22:16.873894,Haryana,Ambala,41.36,20,994,5.91,100,Clouds,overcast clouds
+2026-06-30 13:22:17.959658,Haryana,Bhiwani,41.64,22,995,4.83,81,Clouds,broken clouds
+2026-06-30 13:22:19.042473,Haryana,Charkhi Dadri,41.77,22,995,5.27,68,Clouds,broken clouds
+2026-06-30 13:22:20.111137,Haryana,Faridabad,42.61,20,994,5.23,88,Clouds,overcast clouds
+2026-06-30 13:22:21.185107,Haryana,Fatehabad,41.78,21,995,5.23,18,Clouds,few clouds
+2026-06-30 13:22:22.263791,Haryana,Gurugram,42.28,21,995,5.07,90,Clouds,overcast clouds
+2026-06-30 13:22:23.345143,Haryana,Hisar,41.77,22,995,4.47,36,Clouds,scattered clouds
+2026-06-30 13:22:24.420074,Haryana,Jhajjar,41.86,22,995,5.41,76,Clouds,broken clouds
+2026-06-30 13:22:25.520033,Haryana,Jind,42.09,20,995,6.87,30,Clouds,scattered clouds
+2026-06-30 13:22:26.607096,Haryana,Kaithal,41.68,20,994,4.09,100,Clouds,overcast clouds
+2026-06-30 13:22:27.680905,Haryana,Karnal,42.03,20,994,4.32,47,Clouds,scattered clouds
+2026-06-30 13:22:28.755867,Haryana,Kurukshetra,41.22,21,994,6.09,91,Clouds,overcast clouds
+2026-06-30 13:22:29.846270,Haryana,Mahendragarh,41.22,22,995,5.49,63,Clouds,broken clouds
+2026-06-30 13:22:30.929765,Haryana,Nuh,41.38,23,995,5.53,61,Clouds,broken clouds
+2026-06-30 13:22:32.007969,Haryana,Palwal,41.86,22,995,4.21,66,Clouds,broken clouds
+2026-06-30 13:22:33.092271,Haryana,Panchkula,41.62,18,995,5.4,27,Clouds,scattered clouds
+2026-06-30 13:22:34.175157,Haryana,Panipat,40.7,22,995,0.91,100,Clouds,overcast clouds
+2026-06-30 13:22:35.248620,Haryana,Rewari,41.63,22,995,2.35,39,Clouds,scattered clouds
+2026-06-30 13:22:36.324616,Haryana,Rohtak,41.81,22,995,6.72,100,Clouds,overcast clouds
+2026-06-30 13:22:37.408243,Haryana,Sirsa,41.84,21,995,5.28,53,Clouds,broken clouds
+2026-06-30 13:22:38.503990,Haryana,Sonipat,42.16,21,994,3.94,36,Clouds,scattered clouds
+2026-06-30 13:22:39.577637,Haryana,Yamunanagar,42.07,19,994,4.29,100,Clouds,overcast clouds
+2026-06-30 13:22:40.659430,Uttar Pradesh,Agra,40.51,26,995,3.41,82,Clouds,broken clouds
+2026-06-30 13:22:41.748654,Uttar Pradesh,Aligarh,41.23,23,995,3.55,18,Clouds,few clouds
+2026-06-30 13:22:42.824822,Uttar Pradesh,Ambedkar Nagar,29.96,56,998,4.05,100,Clouds,overcast clouds
+2026-06-30 13:22:43.899331,Uttar Pradesh,Amethi,31.03,52,997,6.27,99,Clouds,overcast clouds
+2026-06-30 13:22:44.984274,Uttar Pradesh,Amroha,36.43,39,995,5.51,83,Clouds,broken clouds
+2026-06-30 13:22:46.077621,Uttar Pradesh,Auraiya,38.98,30,996,2.53,100,Clouds,overcast clouds
+2026-06-30 13:22:47.153431,Uttar Pradesh,Ayodhya,29.71,58,998,3.38,97,Clouds,overcast clouds
+2026-06-30 13:22:48.227848,Uttar Pradesh,Azamgarh,32.61,52,998,5.14,100,Clouds,overcast clouds
+2026-06-30 13:22:49.315466,Uttar Pradesh,Baghpat,41.27,22,994,2.27,87,Clouds,overcast clouds
+2026-06-30 13:22:50.388317,Uttar Pradesh,Bahraich,30.87,58,998,2.44,96,Clouds,overcast clouds
+2026-06-30 13:22:51.462623,Uttar Pradesh,Ballia,36.29,42,998,4.59,100,Clouds,overcast clouds
+2026-06-30 13:22:52.544544,Uttar Pradesh,Balrampur,30.64,61,998,2.5,100,Clouds,overcast clouds
+2026-06-30 13:22:53.635577,Uttar Pradesh,Banda,40.19,26,996,4.17,100,Clouds,overcast clouds
+2026-06-30 13:22:54.711068,Uttar Pradesh,Barabanki,32.98,52,997,4.55,100,Clouds,overcast clouds
+2026-06-30 13:22:55.785395,Uttar Pradesh,Bareilly,35.14,45,996,6.61,100,Clouds,overcast clouds
+2026-06-30 13:22:56.868647,Uttar Pradesh,Basti,30.29,61,998,2.72,100,Clouds,overcast clouds
+2026-06-30 13:22:57.944404,Uttar Pradesh,Bhadohi,36.77,37,997,3.25,100,Clouds,overcast clouds
+2026-06-30 13:22:59.020402,Uttar Pradesh,Bijnor,38.98,28,995,2.2,100,Clouds,overcast clouds
+2026-06-30 13:23:00.101726,Uttar Pradesh,Budaun,38.96,33,995,5.82,100,Clouds,overcast clouds
+2026-06-30 13:23:01.185741,Uttar Pradesh,Bulandshahr,40.27,24,995,5.89,99,Clouds,overcast clouds
+2026-06-30 13:23:02.261587,Uttar Pradesh,Chandauli,37.15,37,997,4.88,100,Clouds,overcast clouds
+2026-06-30 13:23:03.345323,Uttar Pradesh,Deoria,33.51,52,998,3.98,100,Clouds,overcast clouds
+2026-06-30 13:23:04.432637,Uttar Pradesh,Etah,40.3,26,995,0.47,73,Clouds,broken clouds
+2026-06-30 13:23:05.504480,Uttar Pradesh,Etawah,40.4,26,995,3.53,25,Clouds,scattered clouds
+2026-06-30 13:23:06.580326,Uttar Pradesh,Farrukhabad,39.72,30,995,2.29,100,Clouds,overcast clouds
+2026-06-30 13:23:07.662201,Uttar Pradesh,Fatehpur,38.35,33,996,3.81,100,Clouds,overcast clouds
+2026-06-30 13:23:08.730499,Uttar Pradesh,Gautam Buddha Nagar,42.46,21,994,3.47,98,Clouds,overcast clouds
+2026-06-30 13:23:09.805092,Uttar Pradesh,Ghaziabad,41.35,22,994,3.02,100,Clouds,overcast clouds
+2026-06-30 13:23:10.894171,Uttar Pradesh,Ghazipur,37.09,38,997,4.15,94,Clouds,overcast clouds
+2026-06-30 13:23:11.978385,Uttar Pradesh,Gonda,31.1,54,998,2.64,100,Clouds,overcast clouds
+2026-06-30 13:23:13.057412,Uttar Pradesh,Gorakhpur,31.09,61,998,2.75,100,Clouds,overcast clouds
+2026-06-30 13:23:14.131911,Uttar Pradesh,Hamirpur,39.53,28,996,2.9,83,Clouds,broken clouds
+2026-06-30 13:23:15.213832,Uttar Pradesh,Hardoi,35.76,44,996,7.78,100,Clouds,overcast clouds
+2026-06-30 13:23:16.282039,Uttar Pradesh,Jhansi,39.7,27,996,2.77,27,Rain,light rain
+2026-06-30 13:23:17.350197,Uttar Pradesh,Kanpur Nagar,38.05,34,996,5.66,87,Clouds,overcast clouds
+2026-06-30 13:23:18.434141,Uttar Pradesh,Lakhimpur Kheri,31.47,58,998,3.89,100,Clouds,overcast clouds
+2026-06-30 13:23:19.517683,Uttar Pradesh,Lucknow,34.19,49,997,5.64,100,Clouds,overcast clouds
+2026-06-30 13:23:20.586600,Uttar Pradesh,Mathura,41.05,25,995,3.6,31,Clouds,scattered clouds
+2026-06-30 13:23:21.665462,Uttar Pradesh,Meerut,40.11,23,995,2.84,32,Clouds,scattered clouds
+2026-06-30 13:23:22.750582,Uttar Pradesh,Mirzapur,37.48,35,997,0.18,100,Clouds,overcast clouds
+2026-06-30 13:23:23.836532,Uttar Pradesh,Moradabad,36.94,39,995,7.18,58,Clouds,broken clouds
+2026-06-30 13:23:24.919856,Uttar Pradesh,Muzaffarnagar,39.92,23,994,4.18,100,Clouds,overcast clouds
+2026-06-30 13:23:25.994743,Uttar Pradesh,Prayagraj,36.58,37,996,1.12,100,Clouds,overcast clouds
+2026-06-30 13:23:27.078657,Uttar Pradesh,Rae Bareli,35.2,41,997,5.57,90,Clouds,overcast clouds
+2026-06-30 13:23:28.153420,Uttar Pradesh,Saharanpur,41.59,20,994,3.16,78,Clouds,broken clouds
+2026-06-30 13:23:29.227271,Uttar Pradesh,Sitapur,33.39,51,997,5.29,100,Clouds,overcast clouds
+2026-06-30 13:23:30.308654,Uttar Pradesh,Unnao,37.12,38,996,5.99,89,Clouds,overcast clouds
+2026-06-30 13:23:31.379488,Uttar Pradesh,Varanasi,37.72,34,996,4.16,100,Clouds,overcast clouds
+2026-06-30 13:23:32.453388,Madhya Pradesh,Agar Malwa,29.52,64,1001,4.15,77,Clouds,broken clouds
+2026-06-30 13:23:33.535328,Madhya Pradesh,Alirajpur,30.28,60,1002,7.54,85,Clouds,overcast clouds
+2026-06-30 13:23:34.627341,Madhya Pradesh,Anuppur,26.77,82,1001,3.93,100,Rain,light rain
+2026-06-30 13:23:35.702136,Madhya Pradesh,Ashoknagar,27.36,77,1000,9.27,100,Clouds,overcast clouds
+2026-06-30 13:23:36.778620,Madhya Pradesh,Balaghat,27.54,79,1001,3.48,100,Clouds,overcast clouds
+2026-06-30 13:23:37.863426,Madhya Pradesh,Barwani,33.55,52,1001,3.99,46,Clouds,scattered clouds
+2026-06-30 13:23:38.937443,Madhya Pradesh,Betul,26.3,82,1002,3.91,100,Clouds,overcast clouds
+2026-06-30 13:23:40.017152,Madhya Pradesh,Bhind,40.07,27,995,2.8,77,Clouds,broken clouds
+2026-06-30 13:23:41.092117,Madhya Pradesh,Bhopal,29.53,69,1000,0.76,100,Clouds,overcast clouds
+2026-06-30 13:23:42.176454,Madhya Pradesh,Burhanpur,28.1,77,1002,3.89,100,Rain,light rain
+2026-06-30 13:23:43.249869,Madhya Pradesh,Chhatarpur,36.8,35,997,0.63,100,Clouds,overcast clouds
+2026-06-30 13:23:44.324270,Madhya Pradesh,Chhindwara,25.49,86,1002,3.61,100,Clouds,overcast clouds
+2026-06-30 13:23:45.407292,Madhya Pradesh,Damoh,29.3,69,999,7.43,100,Clouds,overcast clouds
+2026-06-30 13:23:46.482412,Madhya Pradesh,Datia,39.58,27,996,2.07,47,Rain,moderate rain
+2026-06-30 13:23:47.561598,Madhya Pradesh,Dewas,30.58,61,1001,5.27,79,Rain,moderate rain
+2026-06-30 13:23:48.643384,Madhya Pradesh,Dhar,29.66,64,1002,5.04,100,Rain,light rain
+2026-06-30 13:23:49.730425,Madhya Pradesh,Dindori,25.18,85,1002,2.39,99,Rain,light rain
+2026-06-30 13:23:50.801798,Madhya Pradesh,Guna,30.13,64,1001,2.88,99,Clouds,overcast clouds
+2026-06-30 13:23:51.869657,Madhya Pradesh,Gwalior,38.52,30,996,6.79,66,Clouds,broken clouds
+2026-06-30 13:23:52.945873,Madhya Pradesh,Harda,30.56,66,1001,4.06,100,Clouds,overcast clouds
+2026-06-30 13:23:54.013386,Madhya Pradesh,Indore,29.5,67,1002,4.49,66,Rain,moderate rain
+2026-06-30 13:23:55.092354,Madhya Pradesh,Jabalpur,29.43,66,1000,3.98,100,Clouds,overcast clouds
+2026-06-30 13:23:56.183518,Madhya Pradesh,Jhabua,32.77,53,1001,5.34,82,Clouds,broken clouds
+2026-06-30 13:23:57.278755,Madhya Pradesh,Katni,29.4,65,1000,4.82,99,Clouds,overcast clouds
+2026-06-30 13:23:58.352311,Madhya Pradesh,Khandwa,30.04,68,1001,5.85,96,Rain,moderate rain
+2026-06-30 13:23:59.426185,Madhya Pradesh,Khargone,30.48,65,1002,5.3,6,Clear,clear sky
+2026-06-30 13:24:00.508691,Madhya Pradesh,Mandla,27.63,72,1002,0.98,100,Clouds,overcast clouds
+2026-06-30 13:24:01.603915,Madhya Pradesh,Mandsaur,31.86,54,1000,5.22,48,Clouds,scattered clouds
+2026-06-30 13:24:02.680885,Madhya Pradesh,Morena,38.28,31,996,2.43,81,Clouds,broken clouds
+2026-06-30 13:24:03.765108,Madhya Pradesh,Narmadapuram,30.54,68,1001,4.1,99,Rain,light rain
+2026-06-30 13:24:04.849246,Madhya Pradesh,Narsinghpur,25.42,85,1001,5.09,100,Clouds,overcast clouds
+2026-06-30 13:24:05.922567,Madhya Pradesh,Neemuch,31.95,52,1000,5.78,69,Clouds,broken clouds
+2026-06-30 13:24:07.001987,Madhya Pradesh,Niwari,38.89,29,996,5.38,100,Rain,light rain
+2026-06-30 13:24:08.079888,Madhya Pradesh,Panna,36.39,36,997,1.34,60,Clouds,broken clouds
+2026-06-30 13:24:09.157432,Madhya Pradesh,Raisen,25.12,92,999,6.24,100,Clouds,overcast clouds
+2026-06-30 13:24:10.233461,Madhya Pradesh,Rajgarh,31.52,55,1001,4.11,54,Clouds,broken clouds
+2026-06-30 13:24:11.315770,Madhya Pradesh,Ratlam,32.07,52,1001,6.03,96,Clouds,overcast clouds
+2026-06-30 13:24:12.407437,Madhya Pradesh,Rewa,34.52,47,998,4.63,100,Rain,light rain
+2026-06-30 13:24:13.480688,Madhya Pradesh,Sagar,26.28,84,1002,5.75,100,Clouds,overcast clouds
+2026-06-30 13:24:14.557266,Madhya Pradesh,Satna,33.61,48,998,4.55,100,Clouds,overcast clouds
+2026-06-30 13:24:15.634565,Madhya Pradesh,Sehore,30.1,68,1001,4.43,91,Clouds,overcast clouds
+2026-06-30 13:24:16.715320,Madhya Pradesh,Seoni,27.37,72,1002,2.19,100,Clouds,overcast clouds
+2026-06-30 13:24:17.792180,Madhya Pradesh,Shahdol,29.6,66,1000,3.5,100,Clouds,overcast clouds
+2026-06-30 13:24:18.882839,Madhya Pradesh,Shajapur,30.68,63,1001,3.43,57,Clouds,broken clouds
+2026-06-30 13:24:19.966911,Madhya Pradesh,Sheopur,33.65,49,998,6.63,46,Clouds,scattered clouds
+2026-06-30 13:24:21.043778,Madhya Pradesh,Shivpuri,32.5,48,998,5.01,52,Clouds,broken clouds
+2026-06-30 13:24:22.127348,Madhya Pradesh,Sidhi,33.24,52,998,3.16,100,Rain,light rain
+2026-06-30 13:24:23.202694,Madhya Pradesh,Singrauli,33.41,44,998,0.17,99,Clouds,overcast clouds
+2026-06-30 13:24:24.283602,Madhya Pradesh,Tikamgarh,34.0,45,998,5.45,96,Clouds,overcast clouds
+2026-06-30 13:24:25.360465,Madhya Pradesh,Ujjain,31.19,59,1001,4.97,81,Clouds,broken clouds
+2026-06-30 13:24:26.449603,Madhya Pradesh,Umaria,27.79,73,1001,3.18,100,Rain,light rain
+2026-06-30 13:24:27.531696,Madhya Pradesh,Vidisha,25.96,89,1000,4.37,100,Clouds,overcast clouds
